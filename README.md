@@ -11,7 +11,6 @@ This repository contains projects from my data analytics certificate course at t
 Contact:
 
 
-https://www.linkedin.com/in/john-bates-a2b9601b2/
 
 
 <!-- Actual text -->
