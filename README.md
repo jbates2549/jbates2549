@@ -9,7 +9,7 @@ This repository contains projects from my data analytics certificate course at t
 
 
 Contact:
-📫 jbatesy@yahoo.com
+
 
 https://www.linkedin.com/in/john-bates-a2b9601b2/
 
